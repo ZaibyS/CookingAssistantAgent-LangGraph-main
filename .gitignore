@@ -1,0 +1,9 @@
+.env
+.venv
+__pycache__
+# cooking_assistant.py
+streamlit_app_docker.py
+main.py
+test.py
+test2.py
+__init__.py
